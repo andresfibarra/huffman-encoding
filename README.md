@@ -2,8 +2,6 @@
 
 ## Overview
 
-Problem set 3 for CS10
+Code written for PSet 3 of CS10 at Dartmouth College. To view the assignment information, open cs10_pse35_information.pdf
 
 Uses huffman encoding to compress provided files
-
-Includes an empty file `HuffmanDriver.java` for use by users to test the other classes
