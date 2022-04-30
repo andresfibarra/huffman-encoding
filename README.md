@@ -2,7 +2,7 @@
 
 ## Overview
 
-Problem set for CS10 PSet 3
+Problem set 3 for CS10
 
 Uses huffman encoding to compress provided files
 
